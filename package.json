@@ -2,6 +2,7 @@
   "name": "githubpagesexemplo-react",
   "private": true,
   "version": "0.0.0",
+  "homepage": "GitHubPagesExemplo-react",
   "type": "module",
   "scripts": {
     "dev": "vite",
